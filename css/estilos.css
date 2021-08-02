@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(18, 197, 33);
+=======
+    color: rgb(197, 18, 18);
+>>>>>>> cabecera
     text-align: left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
