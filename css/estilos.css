@@ -45,3 +45,13 @@ body
     padding: 1em;
 
 }
+
+#footer
+{
+    background: #777;
+    color: whitesmoke;
+    text-align: left;
+    padding: 0.5em;
+    margin: 0%;
+
+}
